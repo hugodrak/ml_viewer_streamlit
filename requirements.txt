@@ -1,0 +1,5 @@
+polars
+streamlit
+pyyaml
+plotly
+watchdog
